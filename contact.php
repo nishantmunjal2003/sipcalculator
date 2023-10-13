@@ -20,8 +20,8 @@ body {font-family: "Lato", sans-serif}
 <!-- Navbar -->
 <?php include("header.php"); ?>
 
-<div style="font-family: Sans-serif ;background-color:rgb(248,249,280);padding:40px;color:black"><h1>Contact for sipcalculator.website</h1>
-<p>You can contact for any query about the sipcalculator.website by email on nishant.eth2@gmail.com</p></div>
+<div style="font-family: Sans-serif ;background-color:rgb(248,249,280);padding:40px;color:black"><h1>Contact for sipcalculator.nishantmunjal.com</h1>
+<p>You can contact for any query about the sipcalculator.nishantmunjal.com by email on nishant.eth2@gmail.com</p></div>
 
 <?php include("footer.php");?>
 

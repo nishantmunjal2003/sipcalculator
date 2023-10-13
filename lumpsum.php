@@ -75,7 +75,7 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-container w3-content w3-center w3-padding-16" style="max-width:800px" id="band">
     <h2 class="w3-wide">SIP CALCULATOR</h2>
     <p class="w3-opacity"><i>CALCULATE AND GAIN WEALTH</i></p>
-    <label><a href="https://sipcalculator.website">MONTHLY</a> | <a href="https://sipcalculator.website/lumpsum.php" style="color:white;background-color:black">LUMPSUM</a></label>
+    <label><a href="https://sipcalculator.nishantmunjal.com">MONTHLY</a> | <a href="https://sipcalculator.nishantmunjal.com/lumpsum.php" style="color:white;background-color:black">LUMPSUM</a></label>
     <p class="w3-justify">
       <div class="w3-container w3-content w3-center w3-padding-16" style="max-width:800px" id="band">
       <div>
