@@ -130,7 +130,7 @@ echo "</div>";
 
 echo "<b>You are paying a total interest of Rs".(float)$totalintpaid."+GST(18%)= Rs ".$gstonint."</b>";
 echo "<h5 class='w3-amber'><b>Invest 10% of your Monthly EMI through SIP and your loan will be Interest Free</b><br>";
-echo "<b><a href='https://sipcalculator.website' style='color:blue'>Plan your investment. Use SIP Calulator to calculate.</a></b></h5>";
+echo "<b><a href='https://sipcalculator.nishantmunjal.com' style='color:blue'>Plan your investment. Use SIP Calulator to calculate.</a></b></h5>";
 
 //more detail about the loan
 $interestmonthlyper=(float)$int/12;
